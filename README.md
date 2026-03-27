@@ -1,14 +1,8 @@
 # Derivate
+Vorlesung "Derivate und ihre Bewertung" an der Freien Universität Berlin
 
-Vorlesung Derivate und ihre Bewertung.
+Diese Seite stellt Links für die Veranstaltung bereit.
 
-Die GitHub-Pages-Seite liegt unter:
+Die GitHub-Pages-Seite ist unter https://andreasloe.github.io/Derivate/ erreichbar.
 
-- `docs/index.html`
-
-Sie bündelt:
-
-- Panopto-Videos mit Laufzeiten
-- Vorschaubilder zu den Sitzungen
-- verlinkte Vorlesungsfolien unter `docs/lectures`
-- Imprint-Abschnitt analog zu den anderen Kurs-Repositories
+See Imprint on https://andreasloe.github.io/Derivate/#imprint
